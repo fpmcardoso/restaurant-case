@@ -198,8 +198,10 @@ Tues
 </tr>
 </tbody>
 </table>
-Quick exploratory analysis
---------------------------
+Exploratory analysis
+--------------------
+
+With some quick exploration we have found that the day of the week seems to be a important variable to predict the daily sales value. On a individual customer level, there are some tables that seem to spend more than others, as well as some "products".
 
 ``` r
 ## Understanding the time series
